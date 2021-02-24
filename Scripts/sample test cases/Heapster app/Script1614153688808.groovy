@@ -37,7 +37,5 @@ WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutiqu
 
 WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/img_Free shipping with 100 purchase_logo'))
 
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/a_Cart                                     _7c491d'))
-
 WebUI.closeBrowser()
 
