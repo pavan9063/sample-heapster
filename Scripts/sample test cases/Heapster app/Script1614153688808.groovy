@@ -41,13 +41,5 @@ WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutiqu
 
 WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/a_Keep Browsing (1)'))
 
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/div_Google Cloud_card-hover'))
-
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/button_Add to Cart'))
-
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/button_Place order'))
-
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/a_Keep Browsing (1)'))
-
 WebUI.closeBrowser()
 
