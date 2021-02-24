@@ -39,7 +39,5 @@ WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutiqu
 
 WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/a_Cart                                     _7c491d'))
 
-WebUI.click(findTestObject('Object Repository/sample testing/Page_Online Boutique/a_Keep Browsing (1)'))
-
 WebUI.closeBrowser()
 
